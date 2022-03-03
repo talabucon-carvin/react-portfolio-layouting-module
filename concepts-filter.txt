@@ -1,0 +1,47 @@
+
+
+USED
+bootstrap
+react
+bootstrap + react
+
+To-study
+install node
+use node only as installer
+nodemon dev dependency
+JSX
+arrow function
+Router DOM
+
+folder structure
+import
+export default
+
+app.js
+portfolio
+css: inline, external, internal
+bootstrap in react
+reading documentation
+
+Backlog
+
+materialUI
+
+node backend
+Babel
+eslint
+jest
+using class based component
+OOP
+package-lock
+tests
+manifest
+nodemodules
+gitignore
+props
+states
+usestate()
+useeffect()
+lifecycle methods
+map
+filter

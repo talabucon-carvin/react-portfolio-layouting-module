@@ -1,0 +1,11 @@
+.external {
+    width: 100%;
+    height: 20px;
+    background: pink;
+}
+
+#externalId{
+    width: 100%;
+    height: 20px;
+    background: lightgreen;
+}

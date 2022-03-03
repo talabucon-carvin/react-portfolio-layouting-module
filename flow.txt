@@ -1,0 +1,50 @@
+Agenda:
+-setup 
+-tips
+-share my appraoch on getting resources
+-structure
+-activity
+
+1. setting up dev environment
+- install nodejs
+- node -version
+- use preferred IDE
+- git checkout yourbranchfirstnamelastname
+- git add .
+- git commit -m "codechallengeUpdate"
+- git push origin yourbranch
+
+-should be in folder together with .git
+- npx create-react-app ReactPractice
+- git add .
+- git commit -m "ReactPractice"
+- git push origin yourbranch
+
+- inside src 3 folders components pages style
+- make txt file somewhere to take notes or use comment
+
+2. Tips
+- make a list of concepts we think we are going to use for the portfolio alone
+-backlog of concepts that has a low chance of using
+-to learn list of concepts we need but not know
+-being used concept is applied currently and how it's used
+Example:
+
+USED:
+node as installer - installed react
+
+TO LEARN
+node as installer
+
+BACKLOG
+materialUI - possible to explore but advanced
+
+props and state
+node backend
+Babel
+eslint
+jest
+
+3.activity boiler plate jsk javascript styling
+4. how to cdn bootstrap
+5.nav bar structure setup activity
